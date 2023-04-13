@@ -1,29 +1,5 @@
 # STONNE: A Simulation Tool for Neural Networks Engines
 
-- [STONNE: A Simulation Tool for Neural Networks Engines](#stonne-a-simulation-tool-for-neural-networks-engines)
-  - [Bibtex](#bibtex)
-  - [Docker image](#docker-image)
-  - [What is STONNE](#what-is-stonne)
-  - [Design of STONNE](#design-of-stonne)
-    - [Flexible DNN Architecture](#flexible-dnn-architecture)
-    - [Input Module](#input-module)
-    - [Output module](#output-module)
-    - [STONNE Mapper: Module for automatic tile generation](#stonne-mapper-module-for-automatic-tile-generation)
-  - [Supported Architectures](#supported-architectures)
-  - [STONNE User Interface. How to run STONNE quickly.](#stonne-user-interface-how-to-run-stonne-quickly)
-    - [Installation](#installation)
-    - [How to run STONNE](#how-to-run-stonne)
-    - [Help Menu](#help-menu)
-    - [Hardware Parameters](#hardware-parameters)
-    - [Dimension and tile Parameters](#dimension-and-tile-parameters)
-    - [Examples](#examples)
-    - [Output](#output)
-    - [Generating Energy Numbers](#generating-energy-numbers)
-  - [PyTorch Frontend](#pytorch-frontend)
-    - [Installation](#installation-1)
-    - [Running PyTorch in STONNE](#running-pytorch-in-stonne)
-    - [Simulation with real benchmarks](#simulation-with-real-benchmarks)
-
 ## Bibtex
 Please, if you use STONNE, please cite us:
 ```
